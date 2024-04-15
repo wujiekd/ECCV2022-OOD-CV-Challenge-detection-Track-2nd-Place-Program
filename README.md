@@ -1,4 +1,4 @@
-# ECCV2022-OOD-CV-Challenge-detection-Track-3rd-Place-Program
+# ECCV2022-OOD-CV-Challenge-detection-Track-2nd-Place-Program
 Competition Open Source Solutions
 
 
